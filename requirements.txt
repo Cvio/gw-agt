@@ -1,0 +1,7 @@
+anthropic
+pandas
+numpy
+langchain
+crewai
+python-dotenv
+matplotlib
